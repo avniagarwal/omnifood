@@ -1,0 +1,21 @@
+QUESTION1
+
+public class first {
+        public static void main(String[] args){
+         System.out.println("Hi AI-DS Class!\nDIT University");
+    }
+}
+
+QUESTION2
+
+import javax.swing.*;  
+public class first {  
+JFrame f;  
+first(){  
+    f=new JFrame();  
+    JOptionPane.showMessageDialog(f,"Welcome to DIT University.");  
+}  
+public static void main(String[] args) {  
+    new first();  
+}  
+} 
